@@ -1,7 +1,6 @@
-# Ember-vivre
+# Ember Sample APP
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Passos para criar uma nova applicação em Ember
 
 ## Start new App
 * docker-compose up
